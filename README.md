@@ -65,7 +65,7 @@ Business Interpretation
 
 ## 📸 Application Demo
 
-### Data Preparation
+### Step 1 — Data Preparation
 
 The dataset is cleaned and transformed before training the model.
 
@@ -73,15 +73,19 @@ The dataset is cleaned and transformed before training the model.
 
 <br>
 
-### Model Training & Evaluation
+### Step 2 — Model Training & Evaluation
 
 The model is trained and evaluated using classification metrics.
 
-![splits](images/5-working-divition.png)
+#### Confussion Matrix Output 
+
+[![matrix.png](https://i.postimg.cc/g02xPrVH/matrix.png)](https://postimg.cc/3kz8X8bk)
 
 <br>
 
-### Business Interpretation
+
+
+### Step 3 — Business Interpretation
 
 The final step focuses on translating model performance into actionable business insights.
 
@@ -140,3 +144,13 @@ The final step focuses on translating model performance into actionable business
 ✔ Interactive Dashboard Integration
 
 ✔ Real-Time Predictions
+
+<br>
+
+## 💡 Final Thoughts
+
+This project illustrates that building an effective Machine Learning model is not only about selecting an algorithm.
+
+The most significant improvement was achieved by incorporating business knowledge through feature engineering, demonstrating how domain expertise can directly enhance predictive performance.
+
+Ultimately, successful data science projects combine technical skills with business understanding to generate actionable insights and support better decision-making.
